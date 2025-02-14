@@ -1,0 +1,29 @@
+.demo-1 {
+    font-weight: bold;
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}
+
+.demo-2 {
+    display: block;
+    font-size: 15px;
+    color: mediumblue;
+    text-align: center;
+    margin-top: 10px;
+}
+
+table {
+    text-align: center;
+    border: 0px solid #d2cfde;
+    border-collapse: separate;
+    border-spacing: 10px;
+    margin: auto;
+}
+
+td {
+    border-radius: 10px;
+    width: 25%;
+    padding: 20px;
+    
+}

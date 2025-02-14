@@ -1,0 +1,26 @@
+*{
+    background-color:  #eaeaea ;
+    color: #231751 ;
+}
+
+img{
+    float: right;
+}
+
+.demo-1{
+    line-height: 30px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+.demo-2{
+    line-height: 30px;
+    background-color: #eaeaea;
+    border-radius: 5px;
+}
+
+
+
+button{
+    margin-top: 20px;
+}
