@@ -1,0 +1,53 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    color: rgb(42, 41, 41);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.post-container{
+    width: 400px;
+    /* position relative làm mốc */
+    position: relative;
+}
+
+.post-container img{
+    width: 100%;
+}
+
+.post-container h3{
+    text-transform: uppercase;
+    font-size: 25px;
+    padding-left: 5px;
+    border-left: 5px solid orange;
+    margin-bottom: 15px;
+}
+
+.post-container .post-title a{  
+    color: white;  
+    padding: 20px;
+    position: absolute;
+    top: 171px;
+    left: 0;   
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.9932423653054971) 6%, rgba(0,0,0,0) 100%);
+}
+
+.post-container .post-title a{
+    font-size: 28px;
+    text-decoration: none;
+
+}
+
+.post-container li{
+    padding: 15px 0;
+    border: 1px solid rgb(237, 237, 237);
+}
+
+.post-container li a{
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bold;
+}
